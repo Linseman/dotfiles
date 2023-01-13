@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = filip.linse@gmail.com
+	name = Filip Linse
